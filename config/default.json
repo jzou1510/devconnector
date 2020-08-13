@@ -1,5 +1,7 @@
 {
     "mongoURI": "mongodb+srv://jzou:Mang0322@cluster0.hoy2q.mongodb.net/devconnector?retryWrites=true&w=majority",
 
-    "jwtSecret": "secrettoken"
+    "jwtSecret": "secrettoken",
+    "githubClientId": "bfeb970b174017871503",
+    "githubSecret": "1dc1329bedf6cff2f600ebd6db836ff272b50031"
 }
